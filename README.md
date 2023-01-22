@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Visite o projeto online](https://theusmm.github.io/nlw-setup)
+- [Visite o projeto online](https://theusmm.github.io/theme-switcher)
 
 ## 🔖 Layout
 

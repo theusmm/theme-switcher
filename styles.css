@@ -111,3 +111,10 @@ body {
     width: 86px;
     height: 86px;
 }
+
+@media (max-width: 375px) {
+    .main-text {
+      /* display: none; */
+      font-size: 30px;
+    }
+}
